@@ -1,7 +1,7 @@
 import turtle
 from PIL import Image
 
-# ================= Instructions at the bottom of this file ===================
+# ================= LAS INSTRUCCIONES SON AL PIE DE ESTE FICHERO ===================
 
 
 def set_background(filename):
@@ -27,7 +27,7 @@ def add_moustache(filename):
     return m
 
 
-# ====================== DO NOT EDIT THE CODE ABOVE ===========================
+# ====================== NO CAMBIE EL CÓDIGO ENCIMA ===========================
 
 
 def screen_clicked(x, y):
