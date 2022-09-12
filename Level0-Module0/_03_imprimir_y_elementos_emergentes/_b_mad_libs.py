@@ -1,6 +1,6 @@
 from tkinter import messagebox, simpledialog, Tk
 
-# Crea un bloque "if-main"
+
 if __name__ == '__main__':
 
     # Cree una variable nueva de una pantalla, pantalla = Tk()
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     # El cuento debajo está escrito con un grupo de Textos que deben estar juntados con señales de +.
     # También, el cuento contiene espacios indicados con [** **] que Ud. necesita reemplezar con los valores
     # del jugador.
-    # Pista: Necesita más señales de + para juntar las variables a las otras partes del cuento
+    # Pista: Necesita más señales de '+' para juntar las variables a las otras partes del cuento
 
     cuento = (
         "Pirañas son más [**adjetivo**] durante el día. Por lo tanto, cruze el río por la noche.\n"

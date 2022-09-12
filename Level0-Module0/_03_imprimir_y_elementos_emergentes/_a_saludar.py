@@ -13,7 +13,6 @@ from tkinter import messagebox, simpledialog, Tk
 # Imprimir: Print
 # Main: Primario
 
-# Crea un bloque "if-main"
 if __name__ == '__main__':
 
     # Cree una variable nueva de una pantalla, pantalla = Tk()
@@ -28,7 +27,7 @@ if __name__ == '__main__':
     #messagebox.showinfo(title="Mensaje", message="PONGA SU MENSAJE AQUI")
 
 
-    # Imprime su mensaje a la consola con la función print()
+    # Imprime el mismo mensaje a la consola con la función print()
     # print("PONGA SU MENSAJE AQUI")
 
     # Muestre un mensaje de error con messagebox.showerror(). 

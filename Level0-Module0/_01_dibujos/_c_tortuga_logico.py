@@ -56,4 +56,4 @@ if __name__ == '__main__':
 
 # ===================== DO NOT EDIT THE CODE BELOW ============================
     window.onclick(pantalla_clic)
-    mi_tortuga.done()
+    turtle.done()

@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     # Use un "for loop" para repetir el código debajo UNA vez (vamos a cambiar este número luego)
 
-        # Fije .fillcolor() de la tortuga a naranja (Color de Relleno = fill color)
+        # Fije fillcolor de la tortuga a naranja (Color de Relleno = fill color) con .fillcolor([nombre del color aquí])
 
         # Use la función .begin_fill()
 
@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
         #                           Doble la tortuga 170 grados a la derecha
 
-        #                           Mueva la tortuga la distance de talla_fuego otra vez
+        #                           Mueva la tortuga la distancia de talla_fuego otra vez
 
         # DOBLE A LA DERECHA        Doble la tortuga 62 grados a la derecha
 

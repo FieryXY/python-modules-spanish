@@ -54,5 +54,5 @@ if __name__ == '__main__':
         # Cambiar los colores
         # Probar formas diferentes
 
-    #Use la función mi_tortuga.done()
-    mi_tortuga.done()
+    #Use la función turtle.done()
+    turtle.done()

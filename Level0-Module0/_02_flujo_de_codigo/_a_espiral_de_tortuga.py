@@ -34,4 +34,4 @@ if __name__ == '__main__':
     # Compare su pauta con el imagen "EspiralDeTortuga.png". Si los pautas son iguales, esta actividad está completada
     
 # ===================== NO CAMBIE EL CÓDIGO DEBAJO ============================
-    mi_tortuga.done()
+    turtle.done()

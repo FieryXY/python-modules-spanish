@@ -23,7 +23,7 @@ class Ojo:
         self.eye = eye
         self.x = x
         self.y = y
-        self.radius = radius
+        self.radius = radio
         
         self.eye.penup()
         
@@ -60,7 +60,7 @@ if __name__ == '__main__':
     #1. Busque un imagen de un gato con ojos GRANDES O use un de los dos imagenes proveídos.
     #   a. Busque un imagen con Google. El imagen necesita ser un fichero de .gif
     #   b. "Right Click" un imagen y seleccione "Save Image As"
-    #   c. Cambie el nombre del imagen a algo corto (Ej. cat.gif)
+    #   c. Cambie el nombre del imagen a algo corto (Ej. gato.gif)
     #   d. Guarde el imagen en su computadora
     #   e. Coloque el imagen en este fichero (_04_juegos_asombrosos)
 
@@ -93,4 +93,4 @@ if __name__ == '__main__':
     pantalla.onclick(pantalla_clic)
     pantalla.onkeypress(teclado_clic, 'space')
     pantalla.listen()
-    mi_tortuga.done()
+    turtle.done()

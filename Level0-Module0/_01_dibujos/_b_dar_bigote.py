@@ -59,4 +59,4 @@ if __name__ == '__main__':
 
     # ===================== NO CAMBIE EL CÓDIGO DEBAJO ============================
     window.onclick(pantalla_clic)
-    mi_tortuga.done()
+    turtle.done()
